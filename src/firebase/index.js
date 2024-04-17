@@ -3,7 +3,7 @@ import { firebaseConfig } from './config'
 import firestore from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD7KfV1pkw_tkatJtenQXBdNBqZC0cGeBg",
+    apiKey: "/",
     authDomain: "geo-position-73c34.firebaseapp.com",
     databaseURL: "https://geo-position-73c34-default-rtdb.firebaseio.com",
     projectId: "geo-position-73c34",
